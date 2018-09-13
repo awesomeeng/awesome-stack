@@ -1,19 +1,43 @@
 {
-    "name": "AwesomeStack",
-    "version": "1.0.0",
-    "author": "the awesome engineering company",
-    "license": "(c) 2018, The Awesome Engineering Company, inc",
-    "contributors": [{
-        "name": "Glen R. Goodwin"
-    }],
-    "engines": {
-        "node": ">=10.5.0"
-    },
-    "dependencies": {
-    },
-    "devDependencies": {
-        "mocha": "*"
-    },
-    "optionalDependencies": {
-    }
+  "name": "@awesomeeng/awesome-stack",
+  "version": "1.0.0",
+  "author": "the awesome engineering company",
+  "license": "MIT",
+  "contributors": [
+    "Glen R. Goodwin"
+  ],
+  "main": "./src/AwesomeStack.js",
+  "engines": {
+    "node": ">=10.5.0"
+  },
+  "dependencies": {
+    "@awesomeeng/awesome-utils": "1.0.0"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "*",
+    "mocha": "*"
+  },
+  "optionalDependencies": {},
+  "scripts": {
+    "docs": "jsdoc2md src/** --separators > docs/API.md"
+  },
+  "description": "Application stack for Enterprise Ready nodejs applications",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomeeng/awesome-stack.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesomeeng",
+    "awesome",
+    "engineering"
+  ],
+  "bugs": {
+    "url": "https://github.com/awesomeeng/awesome-stack/issues"
+  },
+  "homepage": "https://github.com/awesomeeng/awesome-stack#readme"
 }
