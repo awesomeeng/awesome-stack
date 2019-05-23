@@ -50,7 +50,7 @@ server.route("get","/test",(path,request,response)=>{
 
 ## Not Using AwesomeStack
 
-You can use AwesomeStack libraries (AwesomeServer, AwesomeLog, AwesomeConfig, AwesomeCLI) independantly from AwesomeStack, as needed. However, using AwesomeStack together provides your a more unified system with less points of failure and a single source of "truth".
+You can use AwesomeStack libraries (AwesomeServer, AwesomeLog, AwesomeConfig, AwesomeCLI) independantly from AwesomeStack, as needed. However, using AwesomeStack together provides you a more unified system with less points of failure and a single source of "truth". Its up to you.
 
 ## The Awesome Engineering Company
 
