@@ -1,6 +1,6 @@
 # AwesomeStack
 
-AwesomeStack is an application stack for building enterprise ready nodejs applications.  It provides a set of libraries for delivering stable, secure, and performant applications in a fast and reliable manner.
+AwesomeStack is an application stack for building enterprise nodejs applications.  It provides a set of libraries for delivering stable, secure, and performant applications in a fast and reliable manner.
 
 AwesomeStack includes...
 
