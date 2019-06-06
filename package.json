@@ -18,7 +18,7 @@
   },
   "devDependencies": {},
   "optionalDependencies": {},
-  "description": "Application stack for enterprise ready nodejs applications.",
+  "description": "Application stack for enterprise nodejs applications.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/awesomeeng/awesome-stack.git"
@@ -29,7 +29,7 @@
 	"awesome-stack",
 	"awesomestack",
 	"enterprise",
-	"enterprise ready",
+	"enterprise",
 	"enterpriseready",
 	"enterprise-ready",
 	"application",

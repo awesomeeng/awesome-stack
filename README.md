@@ -1,6 +1,6 @@
 # AwesomeStack
 
-AwesomeStack is an application stack for building enterprise ready nodejs applications.  It provides a set of libraries for delivering stable, secure, and performant applications in a fast and reliable manner.
+AwesomeStack is an application stack for building enterprise nodejs applications.  It provides a set of libraries for delivering stable, secure, and performant applications in a fast and reliable manner.
 
 AwesomeStack includes...
 
@@ -12,7 +12,7 @@ AwesomeStack includes...
 
  - **[AwesomeCLI](https://github.com/awesomeeng/awesome-cli)** - Rapidly implement Command Line Interfaces (CLI) for your application.
 
-All AwesomeStack libraries and AwesomeStack itself is completely free and open source (MIT license) and has zero external dependencies. This means you can have confidence in your stack and not spend time worrying about licensing and code changing out from under you. Additionally, AwesomeStack and all of is components are maintained by The Awesome Engineering Company ensuring you a single point of contact and responsibility and unified support for your entire application.
+All AwesomeStack libraries and AwesomeStack itself is completely free and open source (MIT license) and has zero external dependencies. This means you can have confidence in your stack and not spend time worrying about licensing and code changing out from under you. Additionally, AwesomeStack and This means consistency of code throughout the product, safer code, and better support for you and your product. are maintained by The Awesome Engineering Company ensuring you a single point of contact and responsibility and unified support for your entire application.
 
 You can learn more about AwesomeStack here: https://github.com/awesomeeng/awesome-stack
 
