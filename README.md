@@ -1,18 +1,12 @@
-<a href="https://www.npmjs.com/package/@awesomeeng/awesome-cli">![npm](https://img.shields.io/npm/v/@awesomeeng/awesome-cli.svg "npm Details")</a>
-<a href="./LICENSE">![GitHub](https://img.shields.io/github/license/awesomeeng/awesome-cli.svg "License Details")</a>
-<a href="http://npm-stats.com/~packages/@awesomeeng/awesome-cli">![npm](https://img.shields.io/npm/dt/@awesomeeng/awesome-cli.svg "npm download stats")</a>
-<a href="https://github.com/awesomeeng/awesome-cli/graphs/contributors">![GitHub contributors](https://img.shields.io/github/contributors-anon/awesomeeng/awesome-cli.svg "Github Contributors")</a>
-<a href="https://github.com/awesomeeng/awesome-cli/commits/master">![GitHub last commit](https://img.shields.io/github/last-commit/awesomeeng/awesome-cli.svg "Github Commit Log")</a>
-<br/><a href="https://nodejs.org/en/">![node](https://img.shields.io/node/v/@awesomeeng/awesome-cli.svg "NodeJS")</a>
-<a href="https://github.com/awesomeeng/awesome-cli/issues">![GitHub issues](https://img.shields.io/github/issues/awesomeeng/awesome-cli.svg "Github Issues")</a>
-<a href="https://snyk.io/vuln/search?type=npm&q=@awesomeeng/awesome-cli">![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/awesomeeng/awesome-cli.svg "Synk Vulnerabilities Database")</a>
-<a href="https://www.npmjs.com/package/@awesomeeng/awesome-cli">![David](https://img.shields.io/david/awesomeeng/awesome-cli.svg)</a>
-
-# AwesomeCLI
-
-AwesomeCLI is a simple framework for building enterprise Command Line Interface (CLI) tools. It supports standard or command based CLI interaction, global and local switches/options, and useful utilities to speed your tool development time.  It's all your cLI needs in one.
-
-## Features
+<a href="https://www.npmjs.com/package/@awesomeeng/awesome-stack">![npm](https://img.shields.io/npm/v/@awesomeeng/awesome-stack.svg "npm Details")</a>
+<a href="./LICENSE">![GitHub](https://img.shields.io/github/license/awesomeeng/awesome-stack.svg "License Details")</a>
+<a href="http://npm-stats.com/~packages/@awesomeeng/awesome-stack">![npm](https://img.shields.io/npm/dt/@awesomeeng/awesome-stack.svg "npm download stats")</a>
+<a href="https://github.com/awesomeeng/awesome-stack/graphs/contributors">![GitHub contributors](https://img.shields.io/github/contributors-anon/awesomeeng/awesome-stack.svg "Github Contributors")</a>
+<a href="https://github.com/awesomeeng/awesome-stack/commits/master">![GitHub last commit](https://img.shields.io/github/last-commit/awesomeeng/awesome-stack.svg "Github Commit Log")</a>
+<br/><a href="https://nodejs.org/en/">![node](https://img.shields.io/node/v/@awesomeeng/awesome-stack.svg "NodeJS")</a>
+<a href="https://github.com/awesomeeng/awesome-stack/issues">![GitHub issues](https://img.shields.io/github/issues/awesomeeng/awesome-stack.svg "Github Issues")</a>
+<a href="https://snyk.io/vuln/search?type=npm&q=@awesomeeng/awesome-stack">![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/awesomeeng/awesome-stack.svg "Synk Vulnerabilities Database")</a>
+<a href="https://www.npmjs.com/package/@awesomeeng/awesome-stack">![David](https://img.shields.io/david/awesomeeng/awesome-stack.svg)</a>
 
 # AwesomeStack
 
