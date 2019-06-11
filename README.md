@@ -1,3 +1,13 @@
+<a href="https://www.npmjs.com/package/@awesomeeng/awesome-stack">![npm](https://img.shields.io/npm/v/@awesomeeng/awesome-stack.svg "npm Details")</a>
+<a href="./LICENSE">![GitHub](https://img.shields.io/github/license/awesomeeng/awesome-stack.svg "License Details")</a>
+<a href="http://npm-stats.com/~packages/@awesomeeng/awesome-stack">![npm](https://img.shields.io/npm/dt/@awesomeeng/awesome-stack.svg "npm download stats")</a>
+<a href="https://github.com/awesomeeng/awesome-stack/graphs/contributors">![GitHub contributors](https://img.shields.io/github/contributors-anon/awesomeeng/awesome-stack.svg "Github Contributors")</a>
+<a href="https://github.com/awesomeeng/awesome-stack/commits/master">![GitHub last commit](https://img.shields.io/github/last-commit/awesomeeng/awesome-stack.svg "Github Commit Log")</a>
+<br/><a href="https://nodejs.org/en/">![node](https://img.shields.io/node/v/@awesomeeng/awesome-stack.svg "NodeJS")</a>
+<a href="https://github.com/awesomeeng/awesome-stack/issues">![GitHub issues](https://img.shields.io/github/issues/awesomeeng/awesome-stack.svg "Github Issues")</a>
+<a href="https://snyk.io/vuln/search?type=npm&q=@awesomeeng/awesome-stack">![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/awesomeeng/awesome-stack.svg "Synk Vulnerabilities Database")</a>
+<a href="https://www.npmjs.com/package/@awesomeeng/awesome-stack">![David](https://img.shields.io/david/awesomeeng/awesome-stack.svg)</a>
+
 # AwesomeStack
 
 AwesomeStack is an application stack for building enterprise nodejs applications.  It provides a set of libraries for delivering stable, secure, and performant applications in a fast and reliable manner.
